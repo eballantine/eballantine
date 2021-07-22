@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @eballantine
+- 👋 Hi, I’m @eballantine, you can call me Lizzy (she/her)
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-eballantine/eballantine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning: Ruby, TDD, RSpec
+- Hire me? [My CV](https://github.com/eballantine/CV)
+- 📫 Email: lizzy.kayballantine@gmail.com
